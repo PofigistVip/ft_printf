@@ -1,4 +1,4 @@
-# ft_printf
+<p align="center"><img src="ft_printf_Logo.png"></p>
 
 # Описание
 ft_printf - это реализация стандартной библиотечной функции printf. 
